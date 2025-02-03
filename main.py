@@ -29,7 +29,6 @@ st.markdown(
 
 st.sidebar.title("📂 Chat Sessions")
 chat_sessions = load_chat_sessions(CHAT_HISTORY_DIR)
-print(chat_sessions)
 selected_chat = st.sidebar.selectbox("Choose a chat:",chat_sessions, index=0)
 
 
