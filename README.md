@@ -22,6 +22,7 @@ Before you dive in, make sure you have Python 3.x installed. Then, clone this re
 
 ```bash
 git clone https://github.com/namanjha00000/LocalLLmChat.git
+cd LocalLLmChat
 ```
 Now if you are a windows user simply run the run.bat script using the following command in the project folder command prompt:
 ```bash
