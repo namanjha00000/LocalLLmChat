@@ -30,8 +30,8 @@ run.bat
 
 For linux/Mac users, run the following command:
 ```bash
-chmod +x setup.sh
-./setup.sh
+chmod +x run.sh
+./run.sh
 ```
 
 ### Enjoy chatting with your own LLM
